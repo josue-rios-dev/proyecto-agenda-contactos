@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Única regla propia: tipografía base */
+body {
+  font-family: system-ui, sans-serif;
+}
