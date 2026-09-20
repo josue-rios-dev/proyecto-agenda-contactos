@@ -6,7 +6,6 @@ SENATI · Escuela de Tecnologías de la Información · Ingeniería de Software 
 |---|---|
 | **Apellidos y nombres** | Rios Gonzales, Josue |
 | **Unidad didáctica** | Seminario de complementación práctica II |
-
 | **Instructor** | Christian Alfredo Arevalo Jesus |
 | **Fecha de entrega** | 18/09/2026 |
 
